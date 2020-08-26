@@ -518,7 +518,7 @@ button:focus{
 }
 .social-profiles{
     margin-bottom: 30px;
-	font-size: 30px;
+	font-size: 40px;
 }
 .social-profiles span {
     display: inline-block;
@@ -2677,4 +2677,5 @@ div.layout-style {
 }
 .language-skill{
     margin-bottom: 30px;
+	float: left;
 }
